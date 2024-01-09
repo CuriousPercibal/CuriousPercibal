@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<p align="center">
+
+  <img width="51.7%"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=curiouspercibal&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+
+  <img width="46.3%"  src="https://github-readme-streak-stats.herokuapp.com?user=CuriousPercibal&hide_border=true" />
+
+</p>
+
 <!--
 **CuriousPercibal/CuriousPercibal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
